@@ -145,3 +145,12 @@ blockquote[epub|type~="z3998:diary-entry"] + blockquote[epub|type~="z3998:diary-
 	margin: 1.5em auto;
 	width: 25%;
 }
+
+#chapter-18 blockquote b{
+	font-size: 1.25em;
+}
+
+#chapter-18 blockquote:first-of-type{
+	font-variant: small-caps;
+	text-align: center;
+}
